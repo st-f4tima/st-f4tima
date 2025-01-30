@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatima Pura
-- 😺 I am still a noob hehe
+- 😺 I am still a noob hehe...
   
 
 <!---
