@@ -1,12 +1,6 @@
 # 🍋🐈‍⬛😾
 
-👋 Hi, I’m **Fatima Pura**  <br />
-😺 I am still a noob hehe...
-  ![download (1)](https://github.com/user-attachments/assets/05430762-ab5e-4907-ae84-8b0ed70b1fcd)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1966FA&center=true&width=435&lines=Unmotivatedly-driven+Programmer)](https://git.io/typing-svg)
+  
+  ![Header](readme-data/header.gif)
 
-
-
-<!---
-st-f4tima/st-f4tima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
