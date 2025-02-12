@@ -14,6 +14,6 @@
   </a>
 </p>
 
-<p align="center" style="color:#f0c6bc; font-size: 24px;">
+<p align="center" style="color:#f0c6bc; font-size: 15px;">
 
 
