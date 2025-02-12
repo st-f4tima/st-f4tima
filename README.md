@@ -8,5 +8,12 @@
 🔐 Learning web & app dev, eyeing cybersecurity <br>
 🚧 Still figuring out my tech path... 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp&theme=dark"/>
+  </a>
+</p>
+
+<p align="center" style="color:#f0c6bc; font-size: 24px;">
 
 
