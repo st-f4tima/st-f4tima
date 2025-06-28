@@ -9,11 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=st-f4tima&hide=prs&show_icons=true&theme=oceandark&bg_color=00000000&hide_title=true&rank_icon=github&include_all_commits=true&card_width=300" height="120px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=st-f4tima&hide=prs&show_icons=true&theme=oceandark&bg_color=00000000&hide_title=true&rank_icon=github&include_all_commits=true&card_width=300&icon_color=1E90FF&text_color=FFFFFF" height="120px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-f4tima&layout=compact&theme=oceandark&bg_color=00000000&card_width=300" height="120px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-f4tima&layout=compact&theme=oceandark&bg_color=00000000&card_width=300&icon_color=1E90FF&text_color=FFFFFF" height="120px"/>
 </p>
-
 
 ## 🛠️ **version: 0.1 beta**
 
