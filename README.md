@@ -17,7 +17,7 @@
 ## 🛠️ **version: 0.1 beta**
 
 💻 19, first-year uni student <br>
-🔐 Learning web & app dev, eyeing cybersecurity <br>
+🔐 Learning everything, eyeing cybersecurity <br>
 🚧 Still figuring out my tech path... 
 
 <p align="center">
