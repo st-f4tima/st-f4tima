@@ -1,7 +1,13 @@
 <h2>Hello World, I'm <a href="https://hemant.codes">Fatima</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
    
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />](https://www.instagram.com/st_f4tima/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/fatima-pura-49b897275/)
+<a href="https://www.instagram.com/st_f4tima/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fatima-pura-49b897275/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+
+<br>
 
 🌸 20, second-year cs student <br>
 💻 learning everything, eyeing development and machine learning <br>
